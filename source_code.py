@@ -219,3 +219,4 @@ for i, row in enumerate(attr_tensor):
 
 trainer.eval_attr = attr_tensor
 trainer.train(dataloader)
+trainer.save_loss(config["loss_filename"])
