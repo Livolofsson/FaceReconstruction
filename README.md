@@ -10,7 +10,7 @@ The study focuses on the efficacy of a CDCGAN in handling complex data transform
 
 The results highlighted both the potential and challenges of CDCGANs in generating high-fidelity facial reconstructions from compressed data.
 
-### Execution 
+### Architecture
 
 The CDCGAN architecture is based on the paper:
 
